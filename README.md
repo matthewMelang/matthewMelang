@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @matthewMelang
+- 👀 I’m interested in anything that involves programming!
+- 🌱 I’m currently enrolled at Appalacian State University and seeking a batchelors degree in Computer Science.
+- 📫 You can reach me at matthew1melang@gmail.com
